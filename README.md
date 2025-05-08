@@ -79,6 +79,10 @@ plt.plot(rounds, accuracies)
 ## Resultat exemple typique
 ![Image](https://github.com/user-attachments/assets/bc7463e8-e58f-4c25-b3f7-82c67e5e82bc)
 
+## Data Client
+
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
 
 ## Usage
 
