@@ -1,0 +1,11 @@
+## Environnement nécessaire
+Prérequis :
+Python 3.8+
+
+Bibliothèques :
+
+tensorflow ou tensorflow_federated
+
+numpy, matplotlib
+
+pip install tensorflow tensorflow_federated numpy matplotlib
