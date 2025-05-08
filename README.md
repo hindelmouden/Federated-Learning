@@ -69,7 +69,7 @@ plt.plot(rounds, accuracies)
 ```
 ## Viedeo Demo 
 
-http://bit.ly/4k635Lh
+https://bit.ly/437uhTi
 
 
 ## Usage
