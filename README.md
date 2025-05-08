@@ -69,9 +69,9 @@ plt.plot(rounds, accuracies)
 ```
 ## Viedeo Demo 
 
-https://bit.ly/437uhTi
+**https://bit.ly/437uhTi**
 
-<!-- Failed to upload "LAB_ML_DL.mp4" -->
+
 
 ## Resultat Federated Learning exemple
 ![Image](https://github.com/user-attachments/assets/f2bd447b-57d7-4c77-81a5-a2c06eccb1d8)
