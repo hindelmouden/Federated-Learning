@@ -71,6 +71,9 @@ plt.plot(rounds, accuracies)
 
 https://bit.ly/437uhTi
 
+## Resultat exemple typique
+![Image](https://github.com/user-attachments/assets/bc7463e8-e58f-4c25-b3f7-82c67e5e82bc)
+
 
 ## Usage
 
