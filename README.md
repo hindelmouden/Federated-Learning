@@ -67,6 +67,10 @@ import matplotlib.pyplot as plt
 plt.plot(rounds, losses)
 plt.plot(rounds, accuracies)
 ```
+## Viedeo Demo 
+
+http://bit.ly/4k635Lh
+
 
 ## Usage
 
