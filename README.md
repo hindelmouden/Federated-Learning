@@ -71,6 +71,9 @@ plt.plot(rounds, accuracies)
 
 https://bit.ly/437uhTi
 
+## Resultat Federated Learning exemple
+![Image](https://github.com/user-attachments/assets/f2bd447b-57d7-4c77-81a5-a2c06eccb1d8)
+
 ## Resultat exemple typique
 ![Image](https://github.com/user-attachments/assets/bc7463e8-e58f-4c25-b3f7-82c67e5e82bc)
 
